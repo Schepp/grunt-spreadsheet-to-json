@@ -101,7 +101,7 @@ grunt.initConfig({
       options: {
         spreadsheetId: '1I5SeO5P621T4J6AoE-xz_NmZTblAJFqGw7fWI2Fw82A',
         ignoreColumns: ['annotations'] // optional
-      }
+      },
       dest: 'translations/'
     }
   }
